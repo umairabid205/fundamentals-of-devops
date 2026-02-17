@@ -1,0 +1,9 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "description": "Simple Hello World HTTP server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
